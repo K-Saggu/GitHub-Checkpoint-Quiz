@@ -12,4 +12,8 @@ public class GitTest{
 		return "This is my GitHub test";
 	}
 
+	public void setTest(String test){
+		this.test = test;
+	}
+
 }
